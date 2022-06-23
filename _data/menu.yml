@@ -1,0 +1,9 @@
+entries:
+  - title: contacts
+    entries:
+      - title: arthurmpapp@gmail.com
+      - title: github
+        url: https://github.com/ArthurAMP
+  - title: posts
+    post_list:
+      limit: 5
