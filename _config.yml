@@ -32,6 +32,7 @@ remote_theme: riggraz/no-style-please
 
 theme_config:
   date_format: "%Y-%m-%d"
+  back_home_text: ".."
 
 plugins:
   - jekyll-feed

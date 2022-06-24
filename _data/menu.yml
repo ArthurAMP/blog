@@ -1,4 +1,8 @@
 entries:
+  - title: who?
+    url: who
+  - title: why?
+    url: why 
   - title: contacts
     entries:
       - title: arthurmpapp@gmail.com
