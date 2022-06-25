@@ -1,6 +1,7 @@
 ---
 layout: post
 title: game plan
+category: days-before-100-days-of-code
 slug: 100-days-game-plan
 ---
 
