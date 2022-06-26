@@ -26,6 +26,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://ArthurAMP.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amp_arthur
 github_username:  ArthurAMP
+goat_counter: "arthuramp"
 
 # Build settings
 remote_theme: riggraz/no-style-please
